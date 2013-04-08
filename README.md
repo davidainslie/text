@@ -1,0 +1,1 @@
+Text utilities such as the usual StringUtil
